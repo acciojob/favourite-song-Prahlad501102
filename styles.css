@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+div {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #c4302b; /* YouTube Red */
+    text-decoration: none;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+}
